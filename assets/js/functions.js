@@ -48,7 +48,7 @@ Amplitude.init({
     },
     {
       "name": "Oliveira S A ",
-      "url": "./commercials/pt-PT/fabricantes-de-equipamentos-m-dicos/oliveira-s-a-/1673480482314/commercial.mp3",
+      "url": "./commercials/pt-PT/fabricantes-de-equipamentos-m-dicos/oliveira-s-a/1673480482314/commercial.mp3",
       "artist": "Fabricantes De Equipamentos M Dicos",
       "cover_art_url": "assets/img/krang/krang-radio-079.jpg"
     },
@@ -258,7 +258,7 @@ Amplitude.init({
     },
     {
       "name": "Carvalho S A ",
-      "url": "./commercials/pt-PT/engenharia-mec-nica/carvalho-s-a-/1673479497114/commercial.mp3",
+      "url": "./commercials/pt-PT/engenharia-mec-nica/carvalho-s-a/1673479497114/commercial.mp3",
       "artist": "Engenharia Mec Nica",
       "cover_art_url": "assets/img/krang/krang-radio-011.jpg"
     },
@@ -366,7 +366,7 @@ Amplitude.init({
     },
     {
       "name": "Nogueira S A ",
-      "url": "./commercials/pt-PT/m-dia-online/nogueira-s-a-/1673478891702/commercial.mp3",
+      "url": "./commercials/pt-PT/m-dia-online/nogueira-s-a/1673478891702/commercial.mp3",
       "artist": "M Dia Online",
       "cover_art_url": "assets/img/krang/krang-radio-033.jpg"
     },
@@ -438,7 +438,7 @@ Amplitude.init({
     },
     {
       "name": "Reis S A ",
-      "url": "./commercials/pt-PT/pesquisa-de-mercado/reis-s-a-/1673479954749/commercial.mp3",
+      "url": "./commercials/pt-PT/pesquisa-de-mercado/reis-s-a/1673479954749/commercial.mp3",
       "artist": "Pesquisa De Mercado",
       "cover_art_url": "assets/img/krang/krang-radio-070.jpg"
     },
@@ -516,13 +516,13 @@ Amplitude.init({
     },
     {
       "name": "Santos S A ",
-      "url": "./commercials/pt-PT/meio-ambiente-e-fontes-renov-veis/santos-s-a-/1673479046753/commercial.mp3",
+      "url": "./commercials/pt-PT/meio-ambiente-e-fontes-renov-veis/santos-s-a/1673479046753/commercial.mp3",
       "artist": "Meio Ambiente E Fontes Renov Veis",
       "cover_art_url": "assets/img/krang/krang-radio-081.jpg"
     },
     {
       "name": "Nogueira S A ",
-      "url": "./commercials/pt-PT/servi-os-empresariais/nogueira-s-a-/1673476866574/commercial.mp3",
+      "url": "./commercials/pt-PT/servi-os-empresariais/nogueira-s-a/1673476866574/commercial.mp3",
       "artist": "Servi Os Empresariais",
       "cover_art_url": "assets/img/krang/krang-radio-094.jpg"
     },
@@ -828,7 +828,7 @@ Amplitude.init({
     },
     {
       "name": "Saraiva S A ",
-      "url": "./commercials/pt-PT/pol-tica-p-blica/saraiva-s-a-/1673478127283/commercial.mp3",
+      "url": "./commercials/pt-PT/pol-tica-p-blica/saraiva-s-a/1673478127283/commercial.mp3",
       "artist": "Pol Tica P Blica",
       "cover_art_url": "assets/img/krang/krang-radio-067.jpg"
     },
@@ -870,7 +870,7 @@ Amplitude.init({
     },
     {
       "name": "Braga S A ",
-      "url": "./commercials/pt-PT/publica-o/braga-s-a-/1673478295804/commercial.mp3",
+      "url": "./commercials/pt-PT/publica-o/braga-s-a/1673478295804/commercial.mp3",
       "artist": "Publica O",
       "cover_art_url": "assets/img/krang/krang-radio-017.jpg"
     },
@@ -918,7 +918,7 @@ Amplitude.init({
     },
     {
       "name": "Franco S A ",
-      "url": "./commercials/pt-PT/jogos-de-azar-cassinos/franco-s-a-/1673478824926/commercial.mp3",
+      "url": "./commercials/pt-PT/jogos-de-azar-cassinos/franco-s-a/1673478824926/commercial.mp3",
       "artist": "Jogos De Azar Cassinos",
       "cover_art_url": "assets/img/krang/krang-radio-022.jpg"
     },
@@ -957,6 +957,36 @@ Amplitude.init({
       "url": "./commercials/pt-PT/treinamento-e-coaching-profissional/barros-costa-e-carvalho/1673478700549/commercial.mp3",
       "artist": "Treinamento E Coaching Profissional",
       "cover_art_url": "assets/img/krang/krang-radio-052.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
     }
   ]
 });
